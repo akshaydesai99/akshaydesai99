@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshaykumardesai
+- 👋 Hi, I’m Akshaykumar desai
 - 👀 I’m interested in full stack Development
 - 🌱 I’m recently Completed Master of Computer Applications
 - 💞️ I’m looking to collaborate on ...IT Domain
